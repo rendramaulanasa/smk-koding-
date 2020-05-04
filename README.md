@@ -1,0 +1,2 @@
+# smk-koding-
+tahap awal
